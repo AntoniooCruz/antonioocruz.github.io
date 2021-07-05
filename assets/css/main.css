@@ -1661,7 +1661,6 @@ input, select, textarea {
 		}
 
 		.auto-resizable-iframe {
-			max-width: 560px;
 			margin: 0px auto;
 		  }
 		  
